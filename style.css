@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(241, 3, 83);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
